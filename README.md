@@ -31,4 +31,6 @@ npm run build
 ![Demo3](README-GIF/出行页.gif)
 
 #### 注：项目有待完善，现需后端技术支持上线，有意者请加我微信细聊。
+<img src="README-GIF/微信二维码.jpg" />
+
 #### PS：如果你也经历过异地恋，请给我一个star吧！经历过的人都懂！
