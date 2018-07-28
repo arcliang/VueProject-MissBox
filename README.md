@@ -1,30 +1,34 @@
-# liang
+# VueProject-MissBox
 
-> A Vue.js project
+> VUE项目-想念盒
 
-## Build Setup
+## 项目构建
 
 ``` bash
-# install dependencies
+# 依赖插件安装
 npm install
 
-# serve with hot reload at localhost:8080
+# 项目运行
 npm run dev
 
-# build for production with minification
+# 项目打包
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
+## 技术栈
+> vue2 + MintUI + MuseUI + MUI + vue-router + webpack + ES6
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## 效果展示
+### 主页面
+![Demo1](README-GIF/主页.gif)
+### 登录注册页面
+![Demo2](README-GIF/登录注册页.gif)
+### 日志页
+![Demo3](README-GIF/日志页.gif)
+### 出行页
+![Demo3](README-GIF/出行页.gif)
+
+#### 注：项目有待完善，现需后端技术支持上线，有意者请加我微信。
+#### PS：你的star是我学习的动力
