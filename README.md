@@ -18,8 +18,8 @@ npm run build
 ## 技术栈
 > vue2 + MintUI + MuseUI + MUI + vue-router + webpack + ES6
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
+## 项目介绍
+想念盒WebApp旨在给异地情侣提供出行、娱乐以及资讯信息，针对异地相见提供最佳出行方案，为约会提供娱乐咨询以及分享经历和了解他人的经历。
 ## 效果展示
 ### 主页面
 ![Demo1](README-GIF/主页.gif)
@@ -30,5 +30,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ### 出行页
 ![Demo3](README-GIF/出行页.gif)
 
-#### 注：项目有待完善，现需后端技术支持上线，有意者请加我微信。
-#### PS：你的star是我学习的动力
+#### 注：项目有待完善，现需后端技术支持上线，有意者请加我微信细聊。
+#### PS：如果你也经历过异地恋，请给我一个star吧！经历过的人都懂！
